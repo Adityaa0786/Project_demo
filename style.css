@@ -1,0 +1,15 @@
+html{
+    background-color: rgba(29, 29, 33, 0.968);
+    
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+}
+#color{
+    color: whitesmoke;
+    text-align: center;
+}
+#imag{
+    padding: 20px;
+}
